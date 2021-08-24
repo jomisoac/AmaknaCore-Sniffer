@@ -1,0 +1,17 @@
+run/
+.idea/
+.vs/
+**/.idea/
+**/.vscode/
+**/.vs/
+server/stump.server.worldserver/packages/*
+server/stump.server.worldserver/bin/*
+server/stump.server.worldserver/obj/*
+
+**/packages/
+**/bin/
+**/obj/
+**/bin/Debug/
+**/bin/Release/
+Build/
+packages/
