@@ -246,7 +246,6 @@
     <Compile Include="Protocol\Messages\common\basic\BasicPongMessage.cs" />
     <Compile Include="Protocol\Messages\common\basic\BasicStatMessage.cs" />
     <Compile Include="Protocol\Messages\common\basic\BasicStatWithDataMessage.cs" />
-    <Compile Include="Protocol\Messages\common\Message124Fixed.cs" />
     <Compile Include="Protocol\Messages\common\NetworkDataContainerMessage.cs" />
     <Compile Include="Protocol\Messages\connection\CredentialsAcknowledgementMessage.cs" />
     <Compile Include="Protocol\Messages\connection\HelloConnectMessage.cs" />
@@ -1532,7 +1531,6 @@
     <Compile Include="Protocol\Types\game\data\items\ObjectItemGenericQuantity.cs" />
     <Compile Include="Protocol\Types\game\data\items\ObjectItemInformationWithQuantity.cs" />
     <Compile Include="Protocol\Types\game\data\items\ObjectItemMinimalInformation.cs" />
-    <Compile Include="Protocol\Types\game\data\items\ObjectItemMinimalInformationFixed.cs" />
     <Compile Include="Protocol\Types\game\data\items\ObjectItemNotInContainer.cs" />
     <Compile Include="Protocol\Types\game\data\items\ObjectItemQuantity.cs" />
     <Compile Include="Protocol\Types\game\data\items\ObjectItemQuantityPriceDateEffects.cs" />
@@ -1724,5 +1722,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

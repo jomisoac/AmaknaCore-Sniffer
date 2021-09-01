@@ -1,6 +1,6 @@
 
 
-// Generated on 08/19/2021 23:34:56
+// Generated on 09/01/2021 10:12:11
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +10,7 @@ using AmaknaProxy.API.Network;
 
 namespace AmaknaProxy.API.Protocol.Messages
 {
-    public partial class RawDataMessage : NetworkMessage
+    public class RawDataMessage : NetworkMessage
     {
         public const uint Id = 6253;
         public override uint MessageId
