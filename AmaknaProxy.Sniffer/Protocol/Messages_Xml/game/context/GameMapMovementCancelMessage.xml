@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameMapMovementCancelMessage" Id="953" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameMapMovementCancelMessage" Id="2307" Heritage="Message">
 	<Fields>
 		<XmlField Name="cellId" Type="varuhshort" Condition="cellId &lt; 0 || cellId &gt; 559" />
 	</Fields>

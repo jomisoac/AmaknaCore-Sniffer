@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ShortcutObjectItem" Id="371" Heritage="ShortcutObject">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ShortcutObjectItem" Id="3792" Heritage="ShortcutObject">
 	<Fields>
 		<XmlField Name="itemUID" Type="int" />
 		<XmlField Name="itemGID" Type="int" />

@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayCharacterInformations" Id="36" Heritage="GameRolePlayHumanoidInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayCharacterInformations" Id="8148" Heritage="GameRolePlayHumanoidInformations">
 	<Fields>
 		<XmlField Name="alignmentInfos" Type="Types.ActorAlignmentInformations" />
 	</Fields>

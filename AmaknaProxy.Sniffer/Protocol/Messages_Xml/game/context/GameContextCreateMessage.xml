@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameContextCreateMessage" Id="200" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameContextCreateMessage" Id="7145" Heritage="Message">
 	<Fields>
 		<XmlField Name="context" Type="sbyte" Condition="context &lt; 0" />
 	</Fields>

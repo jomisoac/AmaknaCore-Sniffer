@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Version" Id="11" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Version" Id="9475" Heritage="">
 	<Fields>
 		<XmlField Name="major" Type="sbyte" Condition="major &lt; 0" />
 		<XmlField Name="minor" Type="sbyte" Condition="minor &lt; 0" />

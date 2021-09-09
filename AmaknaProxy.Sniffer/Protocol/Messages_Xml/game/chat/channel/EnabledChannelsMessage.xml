@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="EnabledChannelsMessage" Id="892" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="EnabledChannelsMessage" Id="5294" Heritage="Message">
 	<Fields>
 		<XmlField Name="channels" Type="sbyte[]" />
 		<XmlField Name="disallowed" Type="sbyte[]" />

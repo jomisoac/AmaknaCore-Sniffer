@@ -1,5 +1,5 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightLeaveMessage" Id="721" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightLeaveMessage" Id="2140" Heritage="Message">
 	<Fields>
-		<XmlField Name="charId" Type="double" Condition="charId &lt; -9007199254740990 || charId &gt; 9007199254740990" />
+		<XmlField Name="charId" Type="double" Condition="charId &lt; -9007199254740992 || charId &gt; 9007199254740992" />
 	</Fields>
 </XmlMessage>

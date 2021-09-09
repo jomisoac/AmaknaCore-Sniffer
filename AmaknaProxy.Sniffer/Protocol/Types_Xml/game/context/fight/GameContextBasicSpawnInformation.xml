@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameContextBasicSpawnInformation" Id="568" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameContextBasicSpawnInformation" Id="3043" Heritage="">
 	<Fields>
 		<XmlField Name="teamId" Type="sbyte" Condition="teamId &lt; 0" />
 		<XmlField Name="alive" Type="boolean" />

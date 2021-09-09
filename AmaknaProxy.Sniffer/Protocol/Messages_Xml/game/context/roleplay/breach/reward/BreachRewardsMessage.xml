@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BreachRewardsMessage" Id="6813" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BreachRewardsMessage" Id="7161" Heritage="Message">
 	<Fields>
 		<XmlField Name="rewards" Type="Types.BreachReward[]" />
 	</Fields>

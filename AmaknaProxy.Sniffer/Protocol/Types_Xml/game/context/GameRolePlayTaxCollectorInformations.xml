@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayTaxCollectorInformations" Id="148" Heritage="GameRolePlayActorInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayTaxCollectorInformations" Id="1656" Heritage="GameRolePlayActorInformations">
 	<Fields>
 		<XmlField Name="identification" Type="instance of Types.TaxCollectorStaticInformations" />
 		<XmlField Name="guildLevel" Type="byte" Condition="guildLevel &lt; 0 || guildLevel &gt; 255" />

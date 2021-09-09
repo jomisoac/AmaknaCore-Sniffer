@@ -1,0 +1,5 @@
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ListMapNpcsQuestStatusUpdateMessage" Id="2580" Heritage="Message">
+	<Fields>
+		<XmlField Name="mapInfo" Type="Types.MapNpcQuestInfo[]" />
+	</Fields>
+</XmlMessage>

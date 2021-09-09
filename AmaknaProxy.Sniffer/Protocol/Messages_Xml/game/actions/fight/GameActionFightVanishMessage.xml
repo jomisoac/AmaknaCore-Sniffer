@@ -1,5 +1,5 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameActionFightVanishMessage" Id="6217" Heritage="AbstractGameActionMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameActionFightVanishMessage" Id="2891" Heritage="AbstractGameActionMessage">
 	<Fields>
-		<XmlField Name="targetId" Type="double" Condition="targetId &lt; -9007199254740990 || targetId &gt; 9007199254740990" />
+		<XmlField Name="targetId" Type="double" Condition="targetId &lt; -9007199254740992 || targetId &gt; 9007199254740992" />
 	</Fields>
 </XmlMessage>

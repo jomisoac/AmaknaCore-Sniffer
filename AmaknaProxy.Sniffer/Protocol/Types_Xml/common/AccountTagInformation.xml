@@ -1,0 +1,6 @@
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AccountTagInformation" Id="7164" Heritage="">
+	<Fields>
+		<XmlField Name="nickname" Type="utf" />
+		<XmlField Name="tagNumber" Type="utf" />
+	</Fields>
+</XmlType>

@@ -1,6 +1,6 @@
 
 
-// Generated on 09/01/2021 10:12:09
+// Generated on 09/08/2021 14:22:12
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,28 +19,28 @@ namespace AmaknaProxy.API.Protocol.Messages
         }
         
         public uint activityId;
-        public bool @lock;
+        public bool m_lock;
         
         public ActivityLockRequestMessage()
         {
         }
         
-        public ActivityLockRequestMessage(uint activityId, bool @lock)
+        public ActivityLockRequestMessage(uint activityId, bool _lock)
         {
             this.activityId = activityId;
-            this.@lock = @lock;
+            this.m_lock = _lock;
         }
         
         public override void Serialize(IDataWriter writer)
         {
             writer.WriteVarShort((int)activityId);
-            writer.WriteBoolean(@lock);
+            writer.WriteBoolean(m_lock);
         }
         
         public override void Deserialize(IDataReader reader)
         {
             activityId = reader.ReadVarUhShort();
-            @lock = reader.ReadBoolean();
+            m_lock = reader.ReadBoolean();
         }
         
     }

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildBulletinSetRequestMessage" Id="6694" Heritage="SocialNoticeSetRequestMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildBulletinSetRequestMessage" Id="7267" Heritage="SocialNoticeSetRequestMessage">
 	<Fields>
 		<XmlField Name="content" Type="utf" />
 		<XmlField Name="notifyMembers" Type="boolean" />

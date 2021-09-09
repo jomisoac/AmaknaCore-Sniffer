@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PaddockInstancesInformations" Id="509" Heritage="PaddockInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PaddockInstancesInformations" Id="5330" Heritage="PaddockInformations">
 	<Fields>
 		<XmlField Name="paddocks" Type="instance of Types.PaddockBuyableInformations[]" />
 	</Fields>

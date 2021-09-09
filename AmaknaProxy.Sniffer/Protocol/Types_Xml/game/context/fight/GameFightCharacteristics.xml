@@ -1,0 +1,8 @@
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightCharacteristics" Id="6094" Heritage="">
+	<Fields>
+		<XmlField Name="characteristics" Type="Types.CharacterCharacteristics" />
+		<XmlField Name="summoner" Type="double" Condition="summoner &lt; -9007199254740992 || summoner &gt; 9007199254740992" />
+		<XmlField Name="summoned" Type="boolean" />
+		<XmlField Name="invisibilityState" Type="sbyte" Condition="invisibilityState &lt; 0" />
+	</Fields>
+</XmlType>

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DungeonPartyFinderRegisterRequestMessage" Id="6249" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DungeonPartyFinderRegisterRequestMessage" Id="9688" Heritage="Message">
 	<Fields>
 		<XmlField Name="dungeonIds" Type="varuhshort[]" />
 	</Fields>

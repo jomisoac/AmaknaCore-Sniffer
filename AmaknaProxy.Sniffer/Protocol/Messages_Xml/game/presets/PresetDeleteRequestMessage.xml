@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PresetDeleteRequestMessage" Id="6755" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PresetDeleteRequestMessage" Id="8091" Heritage="Message">
 	<Fields>
 		<XmlField Name="presetId" Type="short" />
 	</Fields>

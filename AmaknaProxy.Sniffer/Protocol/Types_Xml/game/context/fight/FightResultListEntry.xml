@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightResultListEntry" Id="16" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightResultListEntry" Id="4588" Heritage="">
 	<Fields>
 		<XmlField Name="outcome" Type="varuhshort" Condition="outcome &lt; 0" />
 		<XmlField Name="wave" Type="sbyte" Condition="wave &lt; 0" />

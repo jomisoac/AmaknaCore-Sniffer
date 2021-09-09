@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterRemodelingInformation" Id="479" Heritage="AbstractCharacterInformation">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterRemodelingInformation" Id="5581" Heritage="AbstractCharacterInformation">
 	<Fields>
 		<XmlField Name="name" Type="utf" />
 		<XmlField Name="breed" Type="sbyte" />

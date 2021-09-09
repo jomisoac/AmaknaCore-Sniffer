@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MountEmoteIconUsedOkMessage" Id="5978" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MountEmoteIconUsedOkMessage" Id="5738" Heritage="Message">
 	<Fields>
 		<XmlField Name="mountId" Type="varint" />
 		<XmlField Name="reactionType" Type="sbyte" Condition="reactionType &lt; 0" />

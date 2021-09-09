@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HouseInformationsInside" Id="218" Heritage="HouseInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HouseInformationsInside" Id="261" Heritage="HouseInformations">
 	<Fields>
 		<XmlField Name="houseInfos" Type="instance of Types.HouseInstanceInformations" />
 		<XmlField Name="worldX" Type="short" Condition="worldX &lt; -255 || worldX &gt; 255" />

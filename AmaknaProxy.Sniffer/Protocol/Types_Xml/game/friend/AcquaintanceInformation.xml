@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AcquaintanceInformation" Id="561" Heritage="AbstractContactInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AcquaintanceInformation" Id="1" Heritage="AbstractContactInformations">
 	<Fields>
 		<XmlField Name="playerState" Type="sbyte" Condition="playerState &lt; 0" />
 	</Fields>

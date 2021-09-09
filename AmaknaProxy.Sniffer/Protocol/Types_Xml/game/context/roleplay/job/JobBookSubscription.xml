@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="JobBookSubscription" Id="500" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="JobBookSubscription" Id="4800" Heritage="">
 	<Fields>
 		<XmlField Name="jobId" Type="sbyte" Condition="jobId &lt; 0" />
 		<XmlField Name="subscribed" Type="boolean" />

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="InventoryWeightMessage" Id="3009" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="InventoryWeightMessage" Id="7128" Heritage="Message">
 	<Fields>
 		<XmlField Name="inventoryWeight" Type="varuhint" Condition="inventoryWeight &lt; 0" />
 		<XmlField Name="shopWeight" Type="varuhint" Condition="shopWeight &lt; 0" />

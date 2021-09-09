@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AchievementDetailedListRequestMessage" Id="6357" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AchievementDetailedListRequestMessage" Id="3488" Heritage="Message">
 	<Fields>
 		<XmlField Name="categoryId" Type="varuhshort" Condition="categoryId &lt; 0" />
 	</Fields>

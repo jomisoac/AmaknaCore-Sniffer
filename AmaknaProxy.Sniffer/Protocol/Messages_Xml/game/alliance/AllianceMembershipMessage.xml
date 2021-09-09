@@ -1,3 +1,3 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceMembershipMessage" Id="6390" Heritage="AllianceJoinedMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceMembershipMessage" Id="3816" Heritage="AllianceJoinedMessage">
 	<Fields />
 </XmlMessage>

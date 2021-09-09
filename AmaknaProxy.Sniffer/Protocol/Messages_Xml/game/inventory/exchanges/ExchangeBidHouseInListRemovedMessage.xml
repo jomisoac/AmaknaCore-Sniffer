@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeBidHouseInListRemovedMessage" Id="5950" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeBidHouseInListRemovedMessage" Id="898" Heritage="Message">
 	<Fields>
 		<XmlField Name="itemUID" Type="int" />
 		<XmlField Name="objectGID" Type="varuhshort" Condition="objectGID &lt; 0" />

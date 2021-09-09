@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="NpcDialogReplyMessage" Id="5616" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="NpcDialogReplyMessage" Id="6189" Heritage="Message">
 	<Fields>
 		<XmlField Name="replyId" Type="varuhint" Condition="replyId &lt; 0" />
 	</Fields>

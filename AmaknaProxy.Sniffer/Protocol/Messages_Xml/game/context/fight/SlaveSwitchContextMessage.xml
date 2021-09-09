@@ -1,7 +1,8 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SlaveSwitchContextMessage" Id="6214" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SlaveSwitchContextMessage" Id="4446" Heritage="Message">
 	<Fields>
-		<XmlField Name="masterId" Type="double" Condition="masterId &lt; -9007199254740990 || masterId &gt; 9007199254740990" />
-		<XmlField Name="slaveId" Type="double" Condition="slaveId &lt; -9007199254740990 || slaveId &gt; 9007199254740990" />
+		<XmlField Name="masterId" Type="double" Condition="masterId &lt; -9007199254740992 || masterId &gt; 9007199254740992" />
+		<XmlField Name="slaveId" Type="double" Condition="slaveId &lt; -9007199254740992 || slaveId &gt; 9007199254740992" />
+		<XmlField Name="slaveTurn" Type="varuhshort" Condition="slaveTurn &lt; 0" />
 		<XmlField Name="slaveSpells" Type="Types.SpellItem[]" />
 		<XmlField Name="slaveStats" Type="Types.CharacterCharacteristicsInformations" />
 		<XmlField Name="shortcuts" Type="instance of Types.Shortcut[]" />

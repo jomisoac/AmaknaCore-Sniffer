@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayNamedActorInformations" Id="154" Heritage="GameRolePlayActorInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayNamedActorInformations" Id="4623" Heritage="GameRolePlayActorInformations">
 	<Fields>
 		<XmlField Name="name" Type="utf" />
 	</Fields>

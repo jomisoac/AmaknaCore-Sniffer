@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="JobBookSubscribeRequestMessage" Id="6592" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="JobBookSubscribeRequestMessage" Id="5290" Heritage="Message">
 	<Fields>
 		<XmlField Name="jobIds" Type="sbyte[]" />
 	</Fields>

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildInfosUpgradeMessage" Id="5636" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildInfosUpgradeMessage" Id="6746" Heritage="Message">
 	<Fields>
 		<XmlField Name="maxTaxCollectorsCount" Type="sbyte" Condition="maxTaxCollectorsCount &lt; 0" />
 		<XmlField Name="taxCollectorsCount" Type="sbyte" Condition="taxCollectorsCount &lt; 0" />

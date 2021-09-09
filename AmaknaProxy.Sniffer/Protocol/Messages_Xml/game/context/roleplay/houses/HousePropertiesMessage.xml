@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HousePropertiesMessage" Id="5734" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HousePropertiesMessage" Id="7872" Heritage="Message">
 	<Fields>
 		<XmlField Name="houseId" Type="varuhint" Condition="houseId &lt; 0" />
 		<XmlField Name="doorsOnMap" Type="int[]" />

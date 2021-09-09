@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ChatAbstractServerMessage" Id="880" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ChatAbstractServerMessage" Id="7258" Heritage="Message">
 	<Fields>
 		<XmlField Name="channel" Type="sbyte" Condition="channel &lt; 0" />
 		<XmlField Name="content" Type="utf" />

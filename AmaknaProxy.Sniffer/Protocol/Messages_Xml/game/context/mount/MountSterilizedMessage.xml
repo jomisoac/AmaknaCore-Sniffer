@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MountSterilizedMessage" Id="5977" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MountSterilizedMessage" Id="8630" Heritage="Message">
 	<Fields>
 		<XmlField Name="mountId" Type="varint" />
 	</Fields>

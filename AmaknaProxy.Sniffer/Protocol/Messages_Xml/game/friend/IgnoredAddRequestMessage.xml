@@ -1,6 +1,6 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="IgnoredAddRequestMessage" Id="5673" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="IgnoredAddRequestMessage" Id="2703" Heritage="Message">
 	<Fields>
-		<XmlField Name="name" Type="utf" />
+		<XmlField Name="target" Type="instance of Types.AbstractPlayerSearchInformation" />
 		<XmlField Name="session" Type="boolean" />
 	</Fields>
 </XmlMessage>

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildCreationValidMessage" Id="5546" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildCreationValidMessage" Id="9369" Heritage="Message">
 	<Fields>
 		<XmlField Name="guildName" Type="utf" />
 		<XmlField Name="guildEmblem" Type="Types.GuildEmblem" />

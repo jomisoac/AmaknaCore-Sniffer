@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BreachInvitationResponseMessage" Id="6792" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BreachInvitationResponseMessage" Id="9040" Heritage="Message">
 	<Fields>
 		<XmlField Name="guest" Type="Types.CharacterMinimalInformations" />
 		<XmlField Name="accept" Type="boolean" />

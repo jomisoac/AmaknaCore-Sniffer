@@ -1,3 +1,3 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayActorInformations" Id="141" Heritage="GameContextActorInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayActorInformations" Id="5720" Heritage="GameContextActorInformations">
 	<Fields />
 </XmlType>

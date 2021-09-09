@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ShortcutSmiley" Id="388" Heritage="Shortcut">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ShortcutSmiley" Id="6309" Heritage="Shortcut">
 	<Fields>
 		<XmlField Name="smileyId" Type="varuhshort" Condition="smileyId &lt; 0" />
 	</Fields>

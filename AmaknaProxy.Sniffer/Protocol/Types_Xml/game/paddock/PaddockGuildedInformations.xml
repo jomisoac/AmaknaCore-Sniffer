@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PaddockGuildedInformations" Id="508" Heritage="PaddockBuyableInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PaddockGuildedInformations" Id="5746" Heritage="PaddockBuyableInformations">
 	<Fields>
 		<XmlField Name="deserted" Type="boolean" />
 		<XmlField Name="guildInfo" Type="Types.GuildInformations" />

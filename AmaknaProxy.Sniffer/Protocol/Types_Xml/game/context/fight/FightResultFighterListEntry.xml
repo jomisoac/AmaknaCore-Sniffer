@@ -1,6 +1,6 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightResultFighterListEntry" Id="189" Heritage="FightResultListEntry">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightResultFighterListEntry" Id="2947" Heritage="FightResultListEntry">
 	<Fields>
-		<XmlField Name="id" Type="double" Condition="id &lt; -9007199254740990 || id &gt; 9007199254740990" />
+		<XmlField Name="id" Type="double" Condition="id &lt; -9007199254740992 || id &gt; 9007199254740992" />
 		<XmlField Name="alive" Type="boolean" />
 	</Fields>
 </XmlType>

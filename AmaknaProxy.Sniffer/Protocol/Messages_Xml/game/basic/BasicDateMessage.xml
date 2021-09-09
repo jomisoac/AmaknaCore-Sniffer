@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BasicDateMessage" Id="177" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BasicDateMessage" Id="5022" Heritage="Message">
 	<Fields>
 		<XmlField Name="day" Type="sbyte" Condition="day &lt; 0" />
 		<XmlField Name="month" Type="sbyte" Condition="month &lt; 0" />

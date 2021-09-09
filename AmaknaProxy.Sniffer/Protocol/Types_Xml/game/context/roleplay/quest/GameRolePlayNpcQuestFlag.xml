@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayNpcQuestFlag" Id="384" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayNpcQuestFlag" Id="8580" Heritage="">
 	<Fields>
 		<XmlField Name="questsToValidId" Type="varuhshort[]" />
 		<XmlField Name="questsToStartId" Type="varuhshort[]" />

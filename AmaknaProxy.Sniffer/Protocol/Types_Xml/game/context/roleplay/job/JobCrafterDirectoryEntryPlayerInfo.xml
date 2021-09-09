@@ -1,6 +1,6 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="JobCrafterDirectoryEntryPlayerInfo" Id="194" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="JobCrafterDirectoryEntryPlayerInfo" Id="5492" Heritage="">
 	<Fields>
-		<XmlField Name="playerId" Type="varuhlong" Condition="playerId &lt; 0 || playerId &gt; 9007199254740990" />
+		<XmlField Name="playerId" Type="varuhlong" Condition="playerId &lt; 0 || playerId &gt; 9007199254740992" />
 		<XmlField Name="playerName" Type="utf" />
 		<XmlField Name="alignmentSide" Type="sbyte" />
 		<XmlField Name="breed" Type="sbyte" Condition="breed &lt; (byte)Enums.PlayableBreedEnum.Feca || breed &gt; (byte)Enums.PlayableBreedEnum.Ouginak" />
@@ -8,8 +8,9 @@
 		<XmlField Name="isInWorkshop" Type="boolean" />
 		<XmlField Name="worldX" Type="short" Condition="worldX &lt; -255 || worldX &gt; 255" />
 		<XmlField Name="worldY" Type="short" Condition="worldY &lt; -255 || worldY &gt; 255" />
-		<XmlField Name="mapId" Type="double" Condition="mapId &lt; 0 || mapId &gt; 9007199254740990" />
+		<XmlField Name="mapId" Type="double" Condition="mapId &lt; 0 || mapId &gt; 9007199254740992" />
 		<XmlField Name="subAreaId" Type="varuhshort" Condition="subAreaId &lt; 0" />
+		<XmlField Name="canCraftLegendary" Type="boolean" />
 		<XmlField Name="status" Type="instance of Types.PlayerStatus" />
 	</Fields>
 </XmlType>

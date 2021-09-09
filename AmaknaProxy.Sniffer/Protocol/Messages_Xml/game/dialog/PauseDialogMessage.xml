@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PauseDialogMessage" Id="6012" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PauseDialogMessage" Id="1952" Heritage="Message">
 	<Fields>
 		<XmlField Name="dialogType" Type="sbyte" Condition="dialogType &lt; 0" />
 	</Fields>

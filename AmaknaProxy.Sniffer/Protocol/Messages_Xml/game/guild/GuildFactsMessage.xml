@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildFactsMessage" Id="6415" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildFactsMessage" Id="7964" Heritage="Message">
 	<Fields>
 		<XmlField Name="infos" Type="instance of Types.GuildFactSheetInformations" />
 		<XmlField Name="creationDate" Type="int" Condition="creationDate &lt; 0" />

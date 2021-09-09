@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="JobCrafterDirectoryEntryJobInfo" Id="195" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="JobCrafterDirectoryEntryJobInfo" Id="7352" Heritage="">
 	<Fields>
 		<XmlField Name="jobId" Type="sbyte" Condition="jobId &lt; 0" />
 		<XmlField Name="jobLevel" Type="byte" Condition="jobLevel &lt; 1 || jobLevel &gt; 200" />

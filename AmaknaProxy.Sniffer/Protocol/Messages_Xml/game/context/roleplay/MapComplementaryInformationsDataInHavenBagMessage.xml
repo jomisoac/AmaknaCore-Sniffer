@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MapComplementaryInformationsDataInHavenBagMessage" Id="6622" Heritage="MapComplementaryInformationsDataMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MapComplementaryInformationsDataInHavenBagMessage" Id="8894" Heritage="MapComplementaryInformationsDataMessage">
 	<Fields>
 		<XmlField Name="ownerInformations" Type="Types.CharacterMinimalInformations" />
 		<XmlField Name="theme" Type="sbyte" />

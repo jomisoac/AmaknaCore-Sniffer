@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightPlacementPossiblePositionsMessage" Id="703" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightPlacementPossiblePositionsMessage" Id="8260" Heritage="Message">
 	<Fields>
 		<XmlField Name="positionsForChallengers" Type="varuhshort[]" />
 		<XmlField Name="positionsForDefenders" Type="varuhshort[]" />

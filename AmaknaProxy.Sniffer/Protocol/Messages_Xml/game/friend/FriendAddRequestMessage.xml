@@ -1,5 +1,5 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FriendAddRequestMessage" Id="4004" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FriendAddRequestMessage" Id="1941" Heritage="Message">
 	<Fields>
-		<XmlField Name="name" Type="utf" />
+		<XmlField Name="target" Type="instance of Types.AbstractPlayerSearchInformation" />
 	</Fields>
 </XmlMessage>

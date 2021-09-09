@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ChallengeTargetsListRequestMessage" Id="5614" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ChallengeTargetsListRequestMessage" Id="1589" Heritage="Message">
 	<Fields>
 		<XmlField Name="challengeId" Type="varuhshort" Condition="challengeId &lt; 0" />
 	</Fields>

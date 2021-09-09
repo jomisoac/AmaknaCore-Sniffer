@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ForgettableSpellsPreset" Id="584" Heritage="Preset">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ForgettableSpellsPreset" Id="8969" Heritage="Preset">
 	<Fields>
 		<XmlField Name="baseSpellsPreset" Type="Types.SpellsPreset" />
 		<XmlField Name="forgettableSpells" Type="Types.SpellForPreset[]" />

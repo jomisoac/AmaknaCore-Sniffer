@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PopupWarningMessage" Id="6134" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PopupWarningMessage" Id="1148" Heritage="Message">
 	<Fields>
 		<XmlField Name="lockDuration" Type="byte" Condition="lockDuration &lt; 0 || lockDuration &gt; 255" />
 		<XmlField Name="author" Type="utf" />

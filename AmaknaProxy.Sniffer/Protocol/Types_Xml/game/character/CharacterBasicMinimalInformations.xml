@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterBasicMinimalInformations" Id="503" Heritage="AbstractCharacterInformation">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterBasicMinimalInformations" Id="6835" Heritage="AbstractCharacterInformation">
 	<Fields>
 		<XmlField Name="name" Type="utf" />
 	</Fields>

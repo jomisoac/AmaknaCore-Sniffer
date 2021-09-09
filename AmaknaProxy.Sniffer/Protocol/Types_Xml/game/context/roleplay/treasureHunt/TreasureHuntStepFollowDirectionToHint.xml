@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TreasureHuntStepFollowDirectionToHint" Id="472" Heritage="TreasureHuntStep">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TreasureHuntStepFollowDirectionToHint" Id="9304" Heritage="TreasureHuntStep">
 	<Fields>
 		<XmlField Name="direction" Type="sbyte" Condition="direction &lt; 0" />
 		<XmlField Name="npcId" Type="varuhshort" Condition="npcId &lt; 0" />

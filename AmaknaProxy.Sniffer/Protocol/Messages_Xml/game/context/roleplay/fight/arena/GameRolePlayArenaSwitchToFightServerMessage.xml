@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayArenaSwitchToFightServerMessage" Id="6575" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayArenaSwitchToFightServerMessage" Id="1661" Heritage="Message">
 	<Fields>
 		<XmlField Name="address" Type="utf" />
 		<XmlField Name="ports" Type="varuhshort[]" />

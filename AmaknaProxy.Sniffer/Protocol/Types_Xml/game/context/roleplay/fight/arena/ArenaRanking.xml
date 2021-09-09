@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ArenaRanking" Id="554" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ArenaRanking" Id="9682" Heritage="">
 	<Fields>
 		<XmlField Name="rank" Type="varuhshort" Condition="rank &lt; 0 || rank &gt; 20000" />
 		<XmlField Name="bestRank" Type="varuhshort" Condition="bestRank &lt; 0 || bestRank &gt; 20000" />

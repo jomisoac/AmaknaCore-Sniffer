@@ -1,6 +1,6 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameActionFightSlideMessage" Id="5525" Heritage="AbstractGameActionMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameActionFightSlideMessage" Id="4704" Heritage="AbstractGameActionMessage">
 	<Fields>
-		<XmlField Name="targetId" Type="double" Condition="targetId &lt; -9007199254740990 || targetId &gt; 9007199254740990" />
+		<XmlField Name="targetId" Type="double" Condition="targetId &lt; -9007199254740992 || targetId &gt; 9007199254740992" />
 		<XmlField Name="startCellId" Type="short" Condition="startCellId &lt; -1 || startCellId &gt; 559" />
 		<XmlField Name="endCellId" Type="short" Condition="endCellId &lt; -1 || endCellId &gt; 559" />
 	</Fields>

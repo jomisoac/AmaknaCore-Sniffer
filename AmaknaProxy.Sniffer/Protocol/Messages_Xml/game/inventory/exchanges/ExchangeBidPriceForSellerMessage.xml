@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeBidPriceForSellerMessage" Id="6464" Heritage="ExchangeBidPriceMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeBidPriceForSellerMessage" Id="7264" Heritage="ExchangeBidPriceMessage">
 	<Fields>
 		<XmlField Name="allIdentical" Type="boolean" />
 		<XmlField Name="minimalPrices" Type="varuhlong[]" />

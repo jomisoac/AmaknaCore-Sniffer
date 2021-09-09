@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AlliancePrismInformation" Id="427" Heritage="PrismInformation">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AlliancePrismInformation" Id="4043" Heritage="PrismInformation">
 	<Fields>
 		<XmlField Name="alliance" Type="Types.AllianceInformations" />
 	</Fields>

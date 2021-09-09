@@ -1,9 +1,9 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightPlacementSwapPositionsOfferMessage" Id="6542" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightPlacementSwapPositionsOfferMessage" Id="2478" Heritage="Message">
 	<Fields>
 		<XmlField Name="requestId" Type="int" Condition="requestId &lt; 0" />
-		<XmlField Name="requesterId" Type="double" Condition="requesterId &lt; -9007199254740990 || requesterId &gt; 9007199254740990" />
+		<XmlField Name="requesterId" Type="double" Condition="requesterId &lt; -9007199254740992 || requesterId &gt; 9007199254740992" />
 		<XmlField Name="requesterCellId" Type="varuhshort" Condition="requesterCellId &lt; 0 || requesterCellId &gt; 559" />
-		<XmlField Name="requestedId" Type="double" Condition="requestedId &lt; -9007199254740990 || requestedId &gt; 9007199254740990" />
+		<XmlField Name="requestedId" Type="double" Condition="requestedId &lt; -9007199254740992 || requestedId &gt; 9007199254740992" />
 		<XmlField Name="requestedCellId" Type="varuhshort" Condition="requestedCellId &lt; 0 || requestedCellId &gt; 559" />
 	</Fields>
 </XmlMessage>

@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="InteractiveElementNamedSkill" Id="220" Heritage="InteractiveElementSkill">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="InteractiveElementNamedSkill" Id="8215" Heritage="InteractiveElementSkill">
 	<Fields>
 		<XmlField Name="nameId" Type="varuhint" Condition="nameId &lt; 0" />
 	</Fields>

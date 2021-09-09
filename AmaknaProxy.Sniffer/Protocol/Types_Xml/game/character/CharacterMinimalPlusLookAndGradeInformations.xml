@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterMinimalPlusLookAndGradeInformations" Id="193" Heritage="CharacterMinimalPlusLookInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterMinimalPlusLookAndGradeInformations" Id="889" Heritage="CharacterMinimalPlusLookInformations">
 	<Fields>
 		<XmlField Name="grade" Type="varuhint" Condition="grade &lt; 0" />
 	</Fields>

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PrismInfoJoinLeaveRequestMessage" Id="5844" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PrismInfoJoinLeaveRequestMessage" Id="8778" Heritage="Message">
 	<Fields>
 		<XmlField Name="join" Type="boolean" />
 	</Fields>

@@ -1,7 +1,7 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayFightRequestCanceledMessage" Id="5822" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayFightRequestCanceledMessage" Id="3985" Heritage="Message">
 	<Fields>
 		<XmlField Name="fightId" Type="varuhshort" Condition="fightId &lt; 0" />
-		<XmlField Name="sourceId" Type="double" Condition="sourceId &lt; -9007199254740990 || sourceId &gt; 9007199254740990" />
-		<XmlField Name="targetId" Type="double" Condition="targetId &lt; -9007199254740990 || targetId &gt; 9007199254740990" />
+		<XmlField Name="sourceId" Type="double" Condition="sourceId &lt; -9007199254740992 || sourceId &gt; 9007199254740992" />
+		<XmlField Name="targetId" Type="double" Condition="targetId &lt; -9007199254740992 || targetId &gt; 9007199254740992" />
 	</Fields>
 </XmlMessage>

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameDataPlayFarmObjectAnimationMessage" Id="6026" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameDataPlayFarmObjectAnimationMessage" Id="7144" Heritage="Message">
 	<Fields>
 		<XmlField Name="cellId" Type="varuhshort[]" />
 	</Fields>

@@ -1,5 +1,5 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightEntityDispositionInformations" Id="217" Heritage="EntityDispositionInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightEntityDispositionInformations" Id="2973" Heritage="EntityDispositionInformations">
 	<Fields>
-		<XmlField Name="carryingCharacterId" Type="double" Condition="carryingCharacterId &lt; -9007199254740990 || carryingCharacterId &gt; 9007199254740990" />
+		<XmlField Name="carryingCharacterId" Type="double" Condition="carryingCharacterId &lt; -9007199254740992 || carryingCharacterId &gt; 9007199254740992" />
 	</Fields>
 </XmlType>

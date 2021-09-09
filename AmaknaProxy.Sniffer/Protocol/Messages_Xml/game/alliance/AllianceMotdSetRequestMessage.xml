@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceMotdSetRequestMessage" Id="6687" Heritage="SocialNoticeSetRequestMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceMotdSetRequestMessage" Id="6887" Heritage="SocialNoticeSetRequestMessage">
 	<Fields>
 		<XmlField Name="content" Type="utf" />
 	</Fields>

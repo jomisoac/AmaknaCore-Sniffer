@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HaapiShopApiKeyMessage" Id="6858" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HaapiShopApiKeyMessage" Id="2356" Heritage="Message">
 	<Fields>
 		<XmlField Name="token" Type="utf" />
 	</Fields>

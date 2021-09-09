@@ -1,6 +1,6 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildMemberOnlineStatusMessage" Id="6061" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildMemberOnlineStatusMessage" Id="4687" Heritage="Message">
 	<Fields>
-		<XmlField Name="memberId" Type="varuhlong" Condition="memberId &lt; 0 || memberId &gt; 9007199254740990" />
+		<XmlField Name="memberId" Type="varuhlong" Condition="memberId &lt; 0 || memberId &gt; 9007199254740992" />
 		<XmlField Name="online" Type="boolean" />
 	</Fields>
 </XmlMessage>

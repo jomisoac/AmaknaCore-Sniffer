@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyEntityBaseInformation" Id="552" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyEntityBaseInformation" Id="8446" Heritage="">
 	<Fields>
 		<XmlField Name="indexId" Type="sbyte" Condition="indexId &lt; 0" />
 		<XmlField Name="entityModelId" Type="sbyte" Condition="entityModelId &lt; 0" />

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ObjectAveragePricesMessage" Id="6335" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ObjectAveragePricesMessage" Id="6792" Heritage="Message">
 	<Fields>
 		<XmlField Name="ids" Type="varuhshort[]" />
 		<XmlField Name="avgPrices" Type="varuhlong[]" />

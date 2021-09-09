@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayArenaUpdatePlayerInfosAllQueuesMessage" Id="6728" Heritage="GameRolePlayArenaUpdatePlayerInfosMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayArenaUpdatePlayerInfosAllQueuesMessage" Id="8647" Heritage="GameRolePlayArenaUpdatePlayerInfosMessage">
 	<Fields>
 		<XmlField Name="team" Type="Types.ArenaRankInfos" />
 		<XmlField Name="duel" Type="Types.ArenaRankInfos" />

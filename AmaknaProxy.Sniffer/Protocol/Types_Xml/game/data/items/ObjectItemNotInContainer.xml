@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ObjectItemNotInContainer" Id="134" Heritage="Item">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ObjectItemNotInContainer" Id="4506" Heritage="Item">
 	<Fields>
 		<XmlField Name="objectGID" Type="varuhshort" Condition="objectGID &lt; 0" />
 		<XmlField Name="effects" Type="instance of Types.ObjectEffect[]" />

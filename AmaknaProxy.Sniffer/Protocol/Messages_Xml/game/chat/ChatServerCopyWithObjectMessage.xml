@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ChatServerCopyWithObjectMessage" Id="884" Heritage="ChatServerCopyMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ChatServerCopyWithObjectMessage" Id="4950" Heritage="ChatServerCopyMessage">
 	<Fields>
 		<XmlField Name="objects" Type="Types.ObjectItem[]" />
 	</Fields>

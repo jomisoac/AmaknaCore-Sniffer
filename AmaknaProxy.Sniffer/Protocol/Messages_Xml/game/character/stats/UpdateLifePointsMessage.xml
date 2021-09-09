@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="UpdateLifePointsMessage" Id="5658" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="UpdateLifePointsMessage" Id="9545" Heritage="Message">
 	<Fields>
 		<XmlField Name="lifePoints" Type="varuhint" Condition="lifePoints &lt; 0" />
 		<XmlField Name="maxLifePoints" Type="varuhint" Condition="maxLifePoints &lt; 0" />

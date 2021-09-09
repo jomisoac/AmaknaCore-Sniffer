@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SpellForPreset" Id="557" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SpellForPreset" Id="6389" Heritage="">
 	<Fields>
 		<XmlField Name="spellId" Type="varuhshort" Condition="spellId &lt; 0" />
 		<XmlField Name="shortcuts" Type="short[]" />

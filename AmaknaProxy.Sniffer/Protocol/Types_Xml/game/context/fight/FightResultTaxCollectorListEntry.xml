@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightResultTaxCollectorListEntry" Id="84" Heritage="FightResultFighterListEntry">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightResultTaxCollectorListEntry" Id="7131" Heritage="FightResultFighterListEntry">
 	<Fields>
 		<XmlField Name="level" Type="byte" Condition="level &lt; 1 || level &gt; 200" />
 		<XmlField Name="guildInfo" Type="Types.BasicGuildInformations" />

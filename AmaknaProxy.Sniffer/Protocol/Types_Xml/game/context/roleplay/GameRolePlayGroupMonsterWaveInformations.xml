@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayGroupMonsterWaveInformations" Id="464" Heritage="GameRolePlayGroupMonsterInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayGroupMonsterWaveInformations" Id="5020" Heritage="GameRolePlayGroupMonsterInformations">
 	<Fields>
 		<XmlField Name="nbWaves" Type="sbyte" Condition="nbWaves &lt; 0" />
 		<XmlField Name="alternatives" Type="instance of Types.GroupMonsterStaticInformations[]" />

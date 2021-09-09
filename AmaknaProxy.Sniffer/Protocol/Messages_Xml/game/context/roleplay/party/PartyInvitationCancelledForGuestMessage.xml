@@ -1,5 +1,5 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyInvitationCancelledForGuestMessage" Id="6256" Heritage="AbstractPartyMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyInvitationCancelledForGuestMessage" Id="8562" Heritage="AbstractPartyMessage">
 	<Fields>
-		<XmlField Name="cancelerId" Type="varuhlong" Condition="cancelerId &lt; 0 || cancelerId &gt; 9007199254740990" />
+		<XmlField Name="cancelerId" Type="varuhlong" Condition="cancelerId &lt; 0 || cancelerId &gt; 9007199254740992" />
 	</Fields>
 </XmlMessage>

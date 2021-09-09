@@ -1,5 +1,5 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BasicWhoIsNoMatchMessage" Id="179" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BasicWhoIsNoMatchMessage" Id="2995" Heritage="Message">
 	<Fields>
-		<XmlField Name="search" Type="utf" />
+		<XmlField Name="target" Type="instance of Types.AbstractPlayerSearchInformation" />
 	</Fields>
 </XmlMessage>

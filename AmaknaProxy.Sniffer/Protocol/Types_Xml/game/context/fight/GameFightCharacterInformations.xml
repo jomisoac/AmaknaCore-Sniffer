@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightCharacterInformations" Id="46" Heritage="GameFightFighterNamedInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightCharacterInformations" Id="5141" Heritage="GameFightFighterNamedInformations">
 	<Fields>
 		<XmlField Name="level" Type="varuhshort" Condition="level &lt; 0" />
 		<XmlField Name="alignmentInfos" Type="Types.ActorAlignmentInformations" />

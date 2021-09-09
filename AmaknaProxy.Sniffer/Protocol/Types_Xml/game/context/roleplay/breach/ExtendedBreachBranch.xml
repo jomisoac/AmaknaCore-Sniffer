@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExtendedBreachBranch" Id="560" Heritage="BreachBranch">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExtendedBreachBranch" Id="5225" Heritage="BreachBranch">
 	<Fields>
 		<XmlField Name="rewards" Type="Types.BreachReward[]" />
 		<XmlField Name="modifier" Type="varint" />

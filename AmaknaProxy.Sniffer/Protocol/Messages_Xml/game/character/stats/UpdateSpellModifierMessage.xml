@@ -1,0 +1,6 @@
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="UpdateSpellModifierMessage" Id="6108" Heritage="Message">
+	<Fields>
+		<XmlField Name="actorId" Type="double" Condition="actorId &lt; -9007199254740992 || actorId &gt; 9007199254740992" />
+		<XmlField Name="spellModifier" Type="Types.CharacterSpellModification" />
+	</Fields>
+</XmlMessage>

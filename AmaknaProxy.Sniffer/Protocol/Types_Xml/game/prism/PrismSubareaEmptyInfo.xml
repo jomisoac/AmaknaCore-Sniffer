@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PrismSubareaEmptyInfo" Id="438" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PrismSubareaEmptyInfo" Id="4789" Heritage="">
 	<Fields>
 		<XmlField Name="subAreaId" Type="varuhshort" Condition="subAreaId &lt; 0" />
 		<XmlField Name="allianceId" Type="varuhint" Condition="allianceId &lt; 0" />

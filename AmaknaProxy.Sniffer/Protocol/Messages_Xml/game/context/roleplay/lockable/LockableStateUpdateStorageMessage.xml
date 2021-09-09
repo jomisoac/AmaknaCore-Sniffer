@@ -1,6 +1,6 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="LockableStateUpdateStorageMessage" Id="5669" Heritage="LockableStateUpdateAbstractMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="LockableStateUpdateStorageMessage" Id="9646" Heritage="LockableStateUpdateAbstractMessage">
 	<Fields>
-		<XmlField Name="mapId" Type="double" Condition="mapId &lt; 0 || mapId &gt; 9007199254740990" />
+		<XmlField Name="mapId" Type="double" Condition="mapId &lt; 0 || mapId &gt; 9007199254740992" />
 		<XmlField Name="elementId" Type="varuhint" Condition="elementId &lt; 0" />
 	</Fields>
 </XmlMessage>

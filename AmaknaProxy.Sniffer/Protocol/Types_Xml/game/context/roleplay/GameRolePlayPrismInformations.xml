@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayPrismInformations" Id="161" Heritage="GameRolePlayActorInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayPrismInformations" Id="7793" Heritage="GameRolePlayActorInformations">
 	<Fields>
 		<XmlField Name="prism" Type="instance of Types.PrismInformation" />
 	</Fields>

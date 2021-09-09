@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MimicryObjectErrorMessage" Id="6461" Heritage="SymbioticObjectErrorMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MimicryObjectErrorMessage" Id="809" Heritage="SymbioticObjectErrorMessage">
 	<Fields>
 		<XmlField Name="preview" Type="boolean" />
 	</Fields>
