@@ -1,6 +1,6 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AbstractContactInformations" Id="380" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AbstractContactInformations" Id="8922" Heritage="">
 	<Fields>
 		<XmlField Name="accountId" Type="int" Condition="accountId &lt; 0" />
-		<XmlField Name="accountName" Type="utf" />
+		<XmlField Name="accountTag" Type="Types.AccountTagInformation" />
 	</Fields>
 </XmlType>

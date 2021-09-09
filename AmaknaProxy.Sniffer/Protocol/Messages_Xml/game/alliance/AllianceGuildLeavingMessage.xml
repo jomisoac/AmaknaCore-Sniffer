@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceGuildLeavingMessage" Id="6399" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceGuildLeavingMessage" Id="5695" Heritage="Message">
 	<Fields>
 		<XmlField Name="kicked" Type="boolean" />
 		<XmlField Name="guildId" Type="varuhint" Condition="guildId &lt; 0" />

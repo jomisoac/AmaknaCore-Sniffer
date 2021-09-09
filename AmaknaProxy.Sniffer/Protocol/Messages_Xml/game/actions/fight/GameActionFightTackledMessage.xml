@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameActionFightTackledMessage" Id="1004" Heritage="AbstractGameActionMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameActionFightTackledMessage" Id="5099" Heritage="AbstractGameActionMessage">
 	<Fields>
 		<XmlField Name="tacklersIds" Type="double[]" />
 	</Fields>

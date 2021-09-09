@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayMutantInformations" Id="3" Heritage="GameRolePlayHumanoidInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayMutantInformations" Id="5654" Heritage="GameRolePlayHumanoidInformations">
 	<Fields>
 		<XmlField Name="monsterId" Type="varuhshort" Condition="monsterId &lt; 0" />
 		<XmlField Name="powerLevel" Type="sbyte" />

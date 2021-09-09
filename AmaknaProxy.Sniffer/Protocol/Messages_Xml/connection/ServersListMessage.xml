@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ServersListMessage" Id="30" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ServersListMessage" Id="4096" Heritage="Message">
 	<Fields>
 		<XmlField Name="servers" Type="Types.GameServerInformations[]" />
 		<XmlField Name="alreadyConnectedToServerId" Type="varuhshort" Condition="alreadyConnectedToServerId &lt; 0" />

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyRestrictedMessage" Id="6175" Heritage="AbstractPartyMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyRestrictedMessage" Id="811" Heritage="AbstractPartyMessage">
 	<Fields>
 		<XmlField Name="restricted" Type="boolean" />
 	</Fields>

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AccountCapabilitiesMessage" Id="6216" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AccountCapabilitiesMessage" Id="7617" Heritage="Message">
 	<Fields>
 		<XmlField Name="tutorialAvailable" Type="flag(0)" />
 		<XmlField Name="canCreateNewCharacter" Type="flag(1)" />

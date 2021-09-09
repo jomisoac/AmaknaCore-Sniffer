@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceModificationStartedMessage" Id="6444" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceModificationStartedMessage" Id="773" Heritage="Message">
 	<Fields>
 		<XmlField Name="canChangeName" Type="flag(0)" />
 		<XmlField Name="canChangeTag" Type="flag(1)" />

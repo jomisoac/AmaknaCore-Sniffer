@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterSelectionWithRemodelMessage" Id="6549" Heritage="CharacterSelectionMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterSelectionWithRemodelMessage" Id="1490" Heritage="CharacterSelectionMessage">
 	<Fields>
 		<XmlField Name="remodel" Type="Types.RemodelingInformation" />
 	</Fields>

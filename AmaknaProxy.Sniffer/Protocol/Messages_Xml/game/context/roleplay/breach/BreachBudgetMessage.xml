@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BreachBudgetMessage" Id="6786" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BreachBudgetMessage" Id="1748" Heritage="Message">
 	<Fields>
 		<XmlField Name="bugdet" Type="varuhint" Condition="bugdet &lt; 0" />
 	</Fields>

@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HavenBagRoomPreviewInformation" Id="576" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HavenBagRoomPreviewInformation" Id="5660" Heritage="">
 	<Fields>
 		<XmlField Name="roomId" Type="byte" Condition="roomId &lt; 0 || roomId &gt; 255" />
 		<XmlField Name="themeId" Type="sbyte" />

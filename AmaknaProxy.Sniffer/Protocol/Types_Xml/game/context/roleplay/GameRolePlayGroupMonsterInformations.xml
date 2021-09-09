@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayGroupMonsterInformations" Id="160" Heritage="GameRolePlayActorInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRolePlayGroupMonsterInformations" Id="475" Heritage="GameRolePlayActorInformations">
 	<Fields>
 		<XmlField Name="keyRingBonus" Type="flag(0)" />
 		<XmlField Name="hasHardcoreDrop" Type="flag(1)" />

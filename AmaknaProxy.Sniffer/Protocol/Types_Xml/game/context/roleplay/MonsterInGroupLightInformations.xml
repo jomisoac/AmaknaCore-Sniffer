@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MonsterInGroupLightInformations" Id="395" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MonsterInGroupLightInformations" Id="3401" Heritage="">
 	<Fields>
 		<XmlField Name="genericId" Type="int" />
 		<XmlField Name="grade" Type="sbyte" Condition="grade &lt; 0" />

@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="EntityMovementInformations" Id="63" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="EntityMovementInformations" Id="1828" Heritage="">
 	<Fields>
 		<XmlField Name="id" Type="int" />
 		<XmlField Name="steps" Type="sbyte[]" />

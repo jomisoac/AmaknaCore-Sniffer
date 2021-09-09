@@ -1,10 +1,10 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildMember" Id="88" Heritage="CharacterMinimalInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GuildMember" Id="4297" Heritage="CharacterMinimalInformations">
 	<Fields>
 		<XmlField Name="sex" Type="flag(0)" />
 		<XmlField Name="havenBagShared" Type="flag(1)" />
 		<XmlField Name="breed" Type="sbyte" />
 		<XmlField Name="rank" Type="varuhshort" Condition="rank &lt; 0" />
-		<XmlField Name="givenExperience" Type="varuhlong" Condition="givenExperience &lt; 0 || givenExperience &gt; 9007199254740990" />
+		<XmlField Name="givenExperience" Type="varuhlong" Condition="givenExperience &lt; 0 || givenExperience &gt; 9007199254740992" />
 		<XmlField Name="experienceGivenPercent" Type="sbyte" Condition="experienceGivenPercent &lt; 0 || experienceGivenPercent &gt; 100" />
 		<XmlField Name="rights" Type="varuhint" Condition="rights &lt; 0" />
 		<XmlField Name="connected" Type="sbyte" Condition="connected &lt; 0" />

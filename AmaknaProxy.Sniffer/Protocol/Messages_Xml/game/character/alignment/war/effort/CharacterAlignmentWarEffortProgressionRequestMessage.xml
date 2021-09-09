@@ -1,3 +1,3 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterAlignmentWarEffortProgressionRequestMessage" Id="6855" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterAlignmentWarEffortProgressionRequestMessage" Id="2265" Heritage="Message">
 	<Fields />
 </XmlMessage>

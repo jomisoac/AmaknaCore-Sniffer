@@ -1,7 +1,7 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PaddockBuyResultMessage" Id="6516" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PaddockBuyResultMessage" Id="1222" Heritage="Message">
 	<Fields>
-		<XmlField Name="paddockId" Type="double" Condition="paddockId &lt; 0 || paddockId &gt; 9007199254740990" />
+		<XmlField Name="paddockId" Type="double" Condition="paddockId &lt; 0 || paddockId &gt; 9007199254740992" />
 		<XmlField Name="bought" Type="boolean" />
-		<XmlField Name="realPrice" Type="varuhlong" Condition="realPrice &lt; 0 || realPrice &gt; 9007199254740990" />
+		<XmlField Name="realPrice" Type="varuhlong" Condition="realPrice &lt; 0 || realPrice &gt; 9007199254740992" />
 	</Fields>
 </XmlMessage>

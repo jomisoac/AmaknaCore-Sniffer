@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SelectedServerDataMessage" Id="42" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SelectedServerDataMessage" Id="1568" Heritage="Message">
 	<Fields>
 		<XmlField Name="serverId" Type="varuhshort" Condition="serverId &lt; 0" />
 		<XmlField Name="address" Type="utf" />

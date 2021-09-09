@@ -1,3 +1,3 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TreasureHuntStepDig" Id="465" Heritage="TreasureHuntStep">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TreasureHuntStepDig" Id="1976" Heritage="TreasureHuntStep">
 	<Fields />
 </XmlType>

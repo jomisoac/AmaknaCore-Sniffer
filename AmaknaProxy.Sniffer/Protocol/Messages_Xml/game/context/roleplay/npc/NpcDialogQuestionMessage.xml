@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="NpcDialogQuestionMessage" Id="5617" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="NpcDialogQuestionMessage" Id="4062" Heritage="Message">
 	<Fields>
 		<XmlField Name="messageId" Type="varuhint" Condition="messageId &lt; 0" />
 		<XmlField Name="dialogParams" Type="utf[]" />

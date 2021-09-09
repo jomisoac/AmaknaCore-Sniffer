@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TaxCollectorAttackedResultMessage" Id="5635" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TaxCollectorAttackedResultMessage" Id="4154" Heritage="Message">
 	<Fields>
 		<XmlField Name="deadOrAlive" Type="boolean" />
 		<XmlField Name="basicInfos" Type="Types.TaxCollectorBasicInformations" />

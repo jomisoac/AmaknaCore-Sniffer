@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TitleSelectedMessage" Id="6366" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TitleSelectedMessage" Id="3567" Heritage="Message">
 	<Fields>
 		<XmlField Name="titleId" Type="varuhshort" Condition="titleId &lt; 0" />
 	</Fields>

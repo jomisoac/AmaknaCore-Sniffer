@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ObjectUseOnCellMessage" Id="3013" Heritage="ObjectUseMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ObjectUseOnCellMessage" Id="3585" Heritage="ObjectUseMessage">
 	<Fields>
 		<XmlField Name="cells" Type="varuhshort" Condition="cells &lt; 0 || cells &gt; 559" />
 	</Fields>

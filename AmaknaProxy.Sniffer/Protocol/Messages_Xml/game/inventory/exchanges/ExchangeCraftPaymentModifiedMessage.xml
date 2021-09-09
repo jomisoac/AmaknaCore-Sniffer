@@ -1,5 +1,5 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeCraftPaymentModifiedMessage" Id="6578" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeCraftPaymentModifiedMessage" Id="1969" Heritage="Message">
 	<Fields>
-		<XmlField Name="goldSum" Type="varuhlong" Condition="goldSum &lt; 0 || goldSum &gt; 9007199254740990" />
+		<XmlField Name="goldSum" Type="varuhlong" Condition="goldSum &lt; 0 || goldSum &gt; 9007199254740992" />
 	</Fields>
 </XmlMessage>

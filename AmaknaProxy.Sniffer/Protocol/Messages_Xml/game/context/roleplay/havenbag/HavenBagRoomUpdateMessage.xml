@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HavenBagRoomUpdateMessage" Id="6860" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HavenBagRoomUpdateMessage" Id="1683" Heritage="Message">
 	<Fields>
 		<XmlField Name="action" Type="sbyte" Condition="action &lt; 0" />
 		<XmlField Name="roomsPreview" Type="Types.HavenBagRoomPreviewInformation[]" />

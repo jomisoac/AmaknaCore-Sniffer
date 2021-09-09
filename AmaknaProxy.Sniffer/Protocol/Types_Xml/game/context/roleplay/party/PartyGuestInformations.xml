@@ -1,7 +1,7 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyGuestInformations" Id="374" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyGuestInformations" Id="6594" Heritage="">
 	<Fields>
-		<XmlField Name="guestId" Type="varuhlong" Condition="guestId &lt; 0 || guestId &gt; 9007199254740990" />
-		<XmlField Name="hostId" Type="varuhlong" Condition="hostId &lt; 0 || hostId &gt; 9007199254740990" />
+		<XmlField Name="guestId" Type="varuhlong" Condition="guestId &lt; 0 || guestId &gt; 9007199254740992" />
+		<XmlField Name="hostId" Type="varuhlong" Condition="hostId &lt; 0 || hostId &gt; 9007199254740992" />
 		<XmlField Name="name" Type="utf" />
 		<XmlField Name="guestLook" Type="Types.EntityLook" />
 		<XmlField Name="breed" Type="sbyte" />

@@ -1,0 +1,6 @@
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ActivityLockRequestMessage" Id="7407" Heritage="Message">
+	<Fields>
+		<XmlField Name="activityId" Type="varuhshort" Condition="activityId &lt; 0" />
+		<XmlField Name="lock" Type="boolean" />
+	</Fields>
+</XmlMessage>

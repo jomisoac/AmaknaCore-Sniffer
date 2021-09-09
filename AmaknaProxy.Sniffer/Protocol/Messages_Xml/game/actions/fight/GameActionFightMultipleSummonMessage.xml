@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameActionFightMultipleSummonMessage" Id="6837" Heritage="AbstractGameActionMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameActionFightMultipleSummonMessage" Id="5219" Heritage="AbstractGameActionMessage">
 	<Fields>
 		<XmlField Name="summons" Type="instance of Types.GameContextSummonsInformation[]" />
 	</Fields>

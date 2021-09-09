@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceInformations" Id="417" Heritage="BasicNamedAllianceInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceInformations" Id="1398" Heritage="BasicNamedAllianceInformations">
 	<Fields>
 		<XmlField Name="allianceEmblem" Type="Types.GuildEmblem" />
 	</Fields>

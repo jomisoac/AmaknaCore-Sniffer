@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="IdolSelectErrorMessage" Id="6584" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="IdolSelectErrorMessage" Id="2333" Heritage="Message">
 	<Fields>
 		<XmlField Name="activate" Type="flag(0)" />
 		<XmlField Name="party" Type="flag(1)" />

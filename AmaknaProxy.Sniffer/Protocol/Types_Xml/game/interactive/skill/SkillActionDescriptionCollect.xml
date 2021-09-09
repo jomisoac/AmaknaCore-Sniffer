@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SkillActionDescriptionCollect" Id="99" Heritage="SkillActionDescriptionTimed">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SkillActionDescriptionCollect" Id="9547" Heritage="SkillActionDescriptionTimed">
 	<Fields>
 		<XmlField Name="min" Type="varuhshort" Condition="min &lt; 0" />
 		<XmlField Name="max" Type="varuhshort" Condition="max &lt; 0" />

@@ -1,6 +1,6 @@
 
 
-// Generated on 09/01/2021 10:12:17
+// Generated on 09/08/2021 14:22:18
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,8 +17,8 @@ namespace AmaknaProxy.API.Protocol.Types
         }
         
         public uint objectUID;
-        public double bonusMin;
-        public double bonusMax;
+        public float bonusMin;
+        public float bonusMax;
         public uint[] runesId;
         public uint[] runesQty;
         
@@ -26,7 +26,7 @@ namespace AmaknaProxy.API.Protocol.Types
         {
         }
         
-        public DecraftedItemStackInfo(uint objectUID, double bonusMin, double bonusMax, uint[] runesId, uint[] runesQty)
+        public DecraftedItemStackInfo(uint objectUID, float bonusMin, float bonusMax, uint[] runesId, uint[] runesQty)
         {
             this.objectUID = objectUID;
             this.bonusMin = bonusMin;
@@ -38,8 +38,8 @@ namespace AmaknaProxy.API.Protocol.Types
         public virtual void Serialize(IDataWriter writer)
         {
             writer.WriteVarInt((int)objectUID);
-            writer.WriteDouble(bonusMin);
-            writer.WriteDouble(bonusMax);
+            writer.WriteFloat(bonusMin);
+            writer.WriteFloat(bonusMax);
             writer.WriteShort((short)runesId.Length);
             foreach (var entry in runesId)
             {

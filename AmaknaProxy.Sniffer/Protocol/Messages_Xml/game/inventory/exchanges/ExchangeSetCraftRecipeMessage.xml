@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeSetCraftRecipeMessage" Id="6389" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeSetCraftRecipeMessage" Id="3940" Heritage="Message">
 	<Fields>
 		<XmlField Name="objectGID" Type="varuhshort" Condition="objectGID &lt; 0" />
 	</Fields>

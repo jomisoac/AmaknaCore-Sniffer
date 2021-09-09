@@ -1,5 +1,5 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyKickedByMessage" Id="5590" Heritage="AbstractPartyMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyKickedByMessage" Id="1519" Heritage="AbstractPartyMessage">
 	<Fields>
-		<XmlField Name="kickerId" Type="varuhlong" Condition="kickerId &lt; 0 || kickerId &gt; 9007199254740990" />
+		<XmlField Name="kickerId" Type="varuhlong" Condition="kickerId &lt; 0 || kickerId &gt; 9007199254740992" />
 	</Fields>
 </XmlMessage>

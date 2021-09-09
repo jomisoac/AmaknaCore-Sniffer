@@ -1,7 +1,7 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FriendSpouseInformations" Id="77" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FriendSpouseInformations" Id="9186" Heritage="">
 	<Fields>
 		<XmlField Name="spouseAccountId" Type="int" Condition="spouseAccountId &lt; 0" />
-		<XmlField Name="spouseId" Type="varuhlong" Condition="spouseId &lt; 0 || spouseId &gt; 9007199254740990" />
+		<XmlField Name="spouseId" Type="varuhlong" Condition="spouseId &lt; 0 || spouseId &gt; 9007199254740992" />
 		<XmlField Name="spouseName" Type="utf" />
 		<XmlField Name="spouseLevel" Type="varuhshort" Condition="spouseLevel &lt; 0" />
 		<XmlField Name="breed" Type="sbyte" />

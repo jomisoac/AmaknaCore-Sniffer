@@ -1,7 +1,7 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SequenceEndMessage" Id="956" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SequenceEndMessage" Id="5793" Heritage="Message">
 	<Fields>
 		<XmlField Name="actionId" Type="varuhshort" Condition="actionId &lt; 0" />
-		<XmlField Name="authorId" Type="double" Condition="authorId &lt; -9007199254740990 || authorId &gt; 9007199254740990" />
+		<XmlField Name="authorId" Type="double" Condition="authorId &lt; -9007199254740992 || authorId &gt; 9007199254740992" />
 		<XmlField Name="sequenceType" Type="sbyte" />
 	</Fields>
 </XmlMessage>

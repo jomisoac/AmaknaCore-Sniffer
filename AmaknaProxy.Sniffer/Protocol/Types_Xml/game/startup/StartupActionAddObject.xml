@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="StartupActionAddObject" Id="52" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="StartupActionAddObject" Id="7573" Heritage="">
 	<Fields>
 		<XmlField Name="uid" Type="int" Condition="uid &lt; 0" />
 		<XmlField Name="title" Type="utf" />

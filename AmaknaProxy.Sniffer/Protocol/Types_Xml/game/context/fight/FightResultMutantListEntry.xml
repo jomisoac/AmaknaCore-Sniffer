@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightResultMutantListEntry" Id="216" Heritage="FightResultFighterListEntry">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightResultMutantListEntry" Id="2372" Heritage="FightResultFighterListEntry">
 	<Fields>
 		<XmlField Name="level" Type="varuhshort" Condition="level &lt; 0" />
 	</Fields>

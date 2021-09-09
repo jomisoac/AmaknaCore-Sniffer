@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameContextActorInformations" Id="150" Heritage="GameContextActorPositionInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameContextActorInformations" Id="3338" Heritage="GameContextActorPositionInformations">
 	<Fields>
 		<XmlField Name="look" Type="Types.EntityLook" />
 	</Fields>

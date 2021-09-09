@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameActionFightNoSpellCastMessage" Id="6132" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameActionFightNoSpellCastMessage" Id="9699" Heritage="Message">
 	<Fields>
 		<XmlField Name="spellLevelId" Type="varuhint" Condition="spellLevelId &lt; 0" />
 	</Fields>

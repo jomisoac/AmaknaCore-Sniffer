@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HaapiAuthErrorMessage" Id="6768" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HaapiAuthErrorMessage" Id="1713" Heritage="Message">
 	<Fields>
 		<XmlField Name="type" Type="sbyte" Condition="type &lt; 0" />
 	</Fields>

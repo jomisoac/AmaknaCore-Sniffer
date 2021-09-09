@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightFighterNamedInformations" Id="158" Heritage="GameFightFighterInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightFighterNamedInformations" Id="3910" Heritage="GameFightFighterInformations">
 	<Fields>
 		<XmlField Name="name" Type="utf" />
 		<XmlField Name="status" Type="Types.PlayerStatus" />

@@ -1,5 +1,5 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyLeaderUpdateMessage" Id="5578" Heritage="AbstractPartyEventMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyLeaderUpdateMessage" Id="8574" Heritage="AbstractPartyEventMessage">
 	<Fields>
-		<XmlField Name="partyLeaderId" Type="varuhlong" Condition="partyLeaderId &lt; 0 || partyLeaderId &gt; 9007199254740990" />
+		<XmlField Name="partyLeaderId" Type="varuhlong" Condition="partyLeaderId &lt; 0 || partyLeaderId &gt; 9007199254740992" />
 	</Fields>
 </XmlMessage>

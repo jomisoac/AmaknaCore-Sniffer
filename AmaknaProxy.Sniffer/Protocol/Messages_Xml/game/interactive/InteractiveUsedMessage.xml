@@ -1,6 +1,6 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="InteractiveUsedMessage" Id="5745" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="InteractiveUsedMessage" Id="9664" Heritage="Message">
 	<Fields>
-		<XmlField Name="entityId" Type="varuhlong" Condition="entityId &lt; 0 || entityId &gt; 9007199254740990" />
+		<XmlField Name="entityId" Type="varuhlong" Condition="entityId &lt; 0 || entityId &gt; 9007199254740992" />
 		<XmlField Name="elemId" Type="varuhint" Condition="elemId &lt; 0" />
 		<XmlField Name="skillId" Type="varuhshort" Condition="skillId &lt; 0" />
 		<XmlField Name="duration" Type="varuhshort" Condition="duration &lt; 0" />

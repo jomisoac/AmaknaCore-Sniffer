@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameMapChangeOrientationsMessage" Id="6155" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameMapChangeOrientationsMessage" Id="9267" Heritage="Message">
 	<Fields>
 		<XmlField Name="orientations" Type="Types.ActorOrientation[]" />
 	</Fields>

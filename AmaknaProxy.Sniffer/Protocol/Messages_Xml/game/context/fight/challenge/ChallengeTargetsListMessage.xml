@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ChallengeTargetsListMessage" Id="5613" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ChallengeTargetsListMessage" Id="1509" Heritage="Message">
 	<Fields>
 		<XmlField Name="targetIds" Type="double[]" />
 		<XmlField Name="targetCells" Type="short[]" />

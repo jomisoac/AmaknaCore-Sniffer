@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="StatedElement" Id="108" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="StatedElement" Id="8521" Heritage="">
 	<Fields>
 		<XmlField Name="elementId" Type="int" Condition="elementId &lt; 0" />
 		<XmlField Name="elementCellId" Type="varuhshort" Condition="elementCellId &lt; 0 || elementCellId &gt; 559" />

@@ -1,6 +1,6 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BasicWhoIsRequestMessage" Id="181" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BasicWhoIsRequestMessage" Id="6034" Heritage="Message">
 	<Fields>
 		<XmlField Name="verbose" Type="boolean" />
-		<XmlField Name="search" Type="utf" />
+		<XmlField Name="target" Type="instance of Types.AbstractPlayerSearchInformation" />
 	</Fields>
 </XmlMessage>

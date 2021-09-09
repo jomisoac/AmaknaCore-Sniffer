@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AuthenticationTicketMessage" Id="110" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AuthenticationTicketMessage" Id="3920" Heritage="Message">
 	<Fields>
 		<XmlField Name="lang" Type="utf" />
 		<XmlField Name="ticket" Type="utf" />

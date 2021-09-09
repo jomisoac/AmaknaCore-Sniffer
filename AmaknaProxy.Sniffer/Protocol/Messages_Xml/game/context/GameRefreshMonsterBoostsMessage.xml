@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRefreshMonsterBoostsMessage" Id="6618" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameRefreshMonsterBoostsMessage" Id="5083" Heritage="Message">
 	<Fields>
 		<XmlField Name="monsterBoosts" Type="Types.MonsterBoosts[]" />
 		<XmlField Name="familyBoosts" Type="Types.MonsterBoosts[]" />

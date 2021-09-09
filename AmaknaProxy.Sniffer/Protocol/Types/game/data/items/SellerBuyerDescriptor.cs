@@ -1,6 +1,6 @@
 
 
-// Generated on 09/01/2021 10:12:18
+// Generated on 09/08/2021 14:22:19
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,8 +18,8 @@ namespace AmaknaProxy.API.Protocol.Types
         
         public uint[] quantities;
         public uint[] types;
-        public double taxPercentage;
-        public double taxModificationPercentage;
+        public float taxPercentage;
+        public float taxModificationPercentage;
         public byte maxItemLevel;
         public uint maxItemPerAccount;
         public int npcContextualId;
@@ -29,7 +29,7 @@ namespace AmaknaProxy.API.Protocol.Types
         {
         }
         
-        public SellerBuyerDescriptor(uint[] quantities, uint[] types, double taxPercentage, double taxModificationPercentage, byte maxItemLevel, uint maxItemPerAccount, int npcContextualId, uint unsoldDelay)
+        public SellerBuyerDescriptor(uint[] quantities, uint[] types, float taxPercentage, float taxModificationPercentage, byte maxItemLevel, uint maxItemPerAccount, int npcContextualId, uint unsoldDelay)
         {
             this.quantities = quantities;
             this.types = types;
@@ -53,8 +53,8 @@ namespace AmaknaProxy.API.Protocol.Types
             {
                  writer.WriteVarInt((int)entry);
             }
-            writer.WriteDouble(taxPercentage);
-            writer.WriteDouble(taxModificationPercentage);
+            writer.WriteFloat(taxPercentage);
+            writer.WriteFloat(taxModificationPercentage);
             writer.WriteByte(maxItemLevel);
             writer.WriteVarInt((int)maxItemPerAccount);
             writer.WriteInt(npcContextualId);

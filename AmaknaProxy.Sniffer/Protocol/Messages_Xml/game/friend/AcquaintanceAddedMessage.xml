@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AcquaintanceAddedMessage" Id="6818" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AcquaintanceAddedMessage" Id="4917" Heritage="Message">
 	<Fields>
 		<XmlField Name="acquaintanceAdded" Type="instance of Types.AcquaintanceInformation" />
 	</Fields>

@@ -1,0 +1,5 @@
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterCharacteristic" Id="2983" Heritage="">
+	<Fields>
+		<XmlField Name="characteristicId" Type="short" />
+	</Fields>
+</XmlType>

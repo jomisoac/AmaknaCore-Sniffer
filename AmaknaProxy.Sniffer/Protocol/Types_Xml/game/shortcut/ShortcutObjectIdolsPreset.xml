@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ShortcutObjectIdolsPreset" Id="492" Heritage="ShortcutObject">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ShortcutObjectIdolsPreset" Id="8219" Heritage="ShortcutObject">
 	<Fields>
 		<XmlField Name="presetId" Type="short" />
 	</Fields>

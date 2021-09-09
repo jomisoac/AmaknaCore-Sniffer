@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="QuestActiveDetailedInformations" Id="382" Heritage="QuestActiveInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="QuestActiveDetailedInformations" Id="109" Heritage="QuestActiveInformations">
 	<Fields>
 		<XmlField Name="stepId" Type="varuhshort" Condition="stepId &lt; 0" />
 		<XmlField Name="objectives" Type="instance of Types.QuestObjectiveInformations[]" />

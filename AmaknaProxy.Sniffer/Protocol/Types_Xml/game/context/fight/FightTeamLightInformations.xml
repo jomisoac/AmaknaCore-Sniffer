@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightTeamLightInformations" Id="115" Heritage="AbstractFightTeamInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightTeamLightInformations" Id="1116" Heritage="AbstractFightTeamInformations">
 	<Fields>
 		<XmlField Name="hasFriend" Type="flag(0)" />
 		<XmlField Name="hasGuildMember" Type="flag(1)" />

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ServerSettingsMessage" Id="6340" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ServerSettingsMessage" Id="7281" Heritage="Message">
 	<Fields>
 		<XmlField Name="isMonoAccount" Type="flag(0)" />
 		<XmlField Name="hasFreeAutopilot" Type="flag(1)" />

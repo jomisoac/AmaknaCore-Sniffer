@@ -1,6 +1,6 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TaxCollectorInformations" Id="167" Heritage="">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TaxCollectorInformations" Id="6718" Heritage="">
 	<Fields>
-		<XmlField Name="uniqueId" Type="double" Condition="uniqueId &lt; 0 || uniqueId &gt; 9007199254740990" />
+		<XmlField Name="uniqueId" Type="double" Condition="uniqueId &lt; 0 || uniqueId &gt; 9007199254740992" />
 		<XmlField Name="firtNameId" Type="varuhshort" Condition="firtNameId &lt; 0" />
 		<XmlField Name="lastNameId" Type="varuhshort" Condition="lastNameId &lt; 0" />
 		<XmlField Name="additionalInfos" Type="Types.AdditionalTaxCollectorInformations" />

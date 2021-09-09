@@ -1,6 +1,6 @@
 
 
-// Generated on 09/01/2021 10:12:17
+// Generated on 09/08/2021 14:22:18
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,23 +37,8 @@ namespace AmaknaProxy.API.Protocol.Types
         
         public virtual void Serialize(IDataWriter writer)
         {
-            if (ranking == null)
-                writer.WriteByte(0);
-            else
-            {
-                writer.WriteByte(1);
-                ranking.Serialize(writer);
-            }
-
-            if (leagueRanking == null)
-            {
-                writer.WriteByte(0);
-            }
-            else
-            {
-                writer.WriteByte(1);
-                leagueRanking.Serialize(writer);
-            }
+            ranking.Serialize(writer);
+            leagueRanking.Serialize(writer);
             writer.WriteVarShort((int)victoryCount);
             writer.WriteVarShort((int)fightcount);
             writer.WriteShort(numFightNeededForLadder);
@@ -61,19 +46,10 @@ namespace AmaknaProxy.API.Protocol.Types
         
         public virtual void Deserialize(IDataReader reader)
         {
-            var isRankingAvailable = reader.ReadByte();
-            if (isRankingAvailable == 1)
-            {
-                ranking = new ArenaRanking();
-                ranking.Deserialize(reader);
-            }
-
-            var isLeagueRankingAvailable = reader.ReadByte();
-            if (isLeagueRankingAvailable == 1)
-            {
-                leagueRanking = new ArenaLeagueRanking();
-                leagueRanking.Deserialize(reader);
-            }
+            ranking = new Types.ArenaRanking();
+            ranking.Deserialize(reader);
+            leagueRanking = new Types.ArenaLeagueRanking();
+            leagueRanking.Deserialize(reader);
             victoryCount = reader.ReadVarUhShort();
             fightcount = reader.ReadVarUhShort();
             numFightNeededForLadder = reader.ReadShort();

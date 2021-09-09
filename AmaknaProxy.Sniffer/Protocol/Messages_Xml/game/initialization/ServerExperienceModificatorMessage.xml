@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ServerExperienceModificatorMessage" Id="6237" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ServerExperienceModificatorMessage" Id="622" Heritage="Message">
 	<Fields>
 		<XmlField Name="experiencePercent" Type="varuhshort" Condition="experiencePercent &lt; 0" />
 	</Fields>

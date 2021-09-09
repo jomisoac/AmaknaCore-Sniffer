@@ -1,0 +1,5 @@
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="KnownZaapListMessage" Id="9689" Heritage="Message">
+	<Fields>
+		<XmlField Name="destinations" Type="double[]" />
+	</Fields>
+</XmlMessage>

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ObjectsAddedMessage" Id="6033" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ObjectsAddedMessage" Id="2979" Heritage="Message">
 	<Fields>
 		<XmlField Name="@object" Type="Types.ObjectItem[]" />
 	</Fields>

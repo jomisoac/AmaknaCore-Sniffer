@@ -1,0 +1,7 @@
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DiceRollRequestMessage" Id="2374" Heritage="Message">
+	<Fields>
+		<XmlField Name="dice" Type="varuhint" Condition="dice &lt; 0" />
+		<XmlField Name="faces" Type="varuhint" Condition="faces &lt; 0" />
+		<XmlField Name="channel" Type="sbyte" Condition="channel &lt; 0" />
+	</Fields>
+</XmlMessage>

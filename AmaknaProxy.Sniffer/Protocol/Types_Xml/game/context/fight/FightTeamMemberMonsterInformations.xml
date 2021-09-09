@@ -1,4 +1,4 @@
-﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightTeamMemberMonsterInformations" Id="6" Heritage="FightTeamMemberInformations">
+﻿<XmlType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FightTeamMemberMonsterInformations" Id="8655" Heritage="FightTeamMemberInformations">
 	<Fields>
 		<XmlField Name="monsterId" Type="int" />
 		<XmlField Name="grade" Type="sbyte" Condition="grade &lt; 0" />

@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeTypesExchangerDescriptionForUserMessage" Id="5765" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeTypesExchangerDescriptionForUserMessage" Id="1423" Heritage="Message">
 	<Fields>
 		<XmlField Name="objectType" Type="int" Condition="objectType &lt; 0" />
 		<XmlField Name="typeDescription" Type="varuhint[]" />

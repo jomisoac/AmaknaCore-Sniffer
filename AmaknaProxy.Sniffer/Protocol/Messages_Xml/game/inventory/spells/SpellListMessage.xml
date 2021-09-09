@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SpellListMessage" Id="1200" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SpellListMessage" Id="8397" Heritage="Message">
 	<Fields>
 		<XmlField Name="spellPrevisualization" Type="boolean" />
 		<XmlField Name="spells" Type="Types.SpellItem[]" />

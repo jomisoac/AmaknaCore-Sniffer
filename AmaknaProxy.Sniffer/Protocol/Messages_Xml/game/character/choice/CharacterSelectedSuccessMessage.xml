@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterSelectedSuccessMessage" Id="153" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CharacterSelectedSuccessMessage" Id="7662" Heritage="Message">
 	<Fields>
 		<XmlField Name="infos" Type="Types.CharacterBaseInformations" />
 		<XmlField Name="isCollectingStats" Type="boolean" />

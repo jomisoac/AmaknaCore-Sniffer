@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeLeaveMessage" Id="5628" Heritage="LeaveDialogMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeLeaveMessage" Id="7647" Heritage="LeaveDialogMessage">
 	<Fields>
 		<XmlField Name="success" Type="boolean" />
 	</Fields>

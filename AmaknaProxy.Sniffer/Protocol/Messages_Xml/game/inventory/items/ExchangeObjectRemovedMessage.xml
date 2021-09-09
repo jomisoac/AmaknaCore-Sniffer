@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeObjectRemovedMessage" Id="5517" Heritage="ExchangeObjectMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeObjectRemovedMessage" Id="2518" Heritage="ExchangeObjectMessage">
 	<Fields>
 		<XmlField Name="objectUID" Type="varuhint" Condition="objectUID &lt; 0" />
 	</Fields>

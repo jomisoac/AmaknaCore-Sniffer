@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DisplayNumericalValuePaddockMessage" Id="6563" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DisplayNumericalValuePaddockMessage" Id="3417" Heritage="Message">
 	<Fields>
 		<XmlField Name="rideId" Type="int" />
 		<XmlField Name="value" Type="int" />

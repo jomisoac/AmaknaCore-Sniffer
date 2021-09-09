@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeObjectModifiedInBagMessage" Id="6008" Heritage="ExchangeObjectMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExchangeObjectModifiedInBagMessage" Id="1874" Heritage="ExchangeObjectMessage">
 	<Fields>
 		<XmlField Name="@object" Type="Types.ObjectItem" />
 	</Fields>

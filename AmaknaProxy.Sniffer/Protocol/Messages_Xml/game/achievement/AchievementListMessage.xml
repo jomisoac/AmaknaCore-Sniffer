@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AchievementListMessage" Id="6205" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AchievementListMessage" Id="9654" Heritage="Message">
 	<Fields>
 		<XmlField Name="finishedAchievements" Type="instance of Types.AchievementAchieved[]" />
 	</Fields>

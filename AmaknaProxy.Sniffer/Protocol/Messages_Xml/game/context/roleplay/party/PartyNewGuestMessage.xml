@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyNewGuestMessage" Id="6260" Heritage="AbstractPartyEventMessage">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PartyNewGuestMessage" Id="4272" Heritage="AbstractPartyEventMessage">
 	<Fields>
 		<XmlField Name="guest" Type="Types.PartyGuestInformations" />
 	</Fields>

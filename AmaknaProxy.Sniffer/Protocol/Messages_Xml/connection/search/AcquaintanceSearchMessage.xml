@@ -1,5 +1,5 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AcquaintanceSearchMessage" Id="6144" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AcquaintanceSearchMessage" Id="2556" Heritage="Message">
 	<Fields>
-		<XmlField Name="nickname" Type="utf" />
+		<XmlField Name="tag" Type="Types.AccountTagInformation" />
 	</Fields>
 </XmlMessage>

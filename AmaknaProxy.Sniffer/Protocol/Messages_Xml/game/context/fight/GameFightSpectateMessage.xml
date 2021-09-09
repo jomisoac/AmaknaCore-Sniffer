@@ -1,4 +1,4 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightSpectateMessage" Id="6069" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GameFightSpectateMessage" Id="9114" Heritage="Message">
 	<Fields>
 		<XmlField Name="effects" Type="Types.FightDispellableEffectExtendedInformations[]" />
 		<XmlField Name="marks" Type="Types.GameActionMark[]" />

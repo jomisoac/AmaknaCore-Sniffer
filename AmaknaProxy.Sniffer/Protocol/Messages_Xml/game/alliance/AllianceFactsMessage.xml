@@ -1,9 +1,9 @@
-﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceFactsMessage" Id="6414" Heritage="Message">
+﻿<XmlMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AllianceFactsMessage" Id="3978" Heritage="Message">
 	<Fields>
 		<XmlField Name="infos" Type="instance of Types.AllianceFactSheetInformations" />
 		<XmlField Name="guilds" Type="Types.GuildInAllianceInformations[]" />
 		<XmlField Name="controlledSubareaIds" Type="varuhshort[]" />
-		<XmlField Name="leaderCharacterId" Type="varuhlong" Condition="leaderCharacterId &lt; 0 || leaderCharacterId &gt; 9007199254740990" />
+		<XmlField Name="leaderCharacterId" Type="varuhlong" Condition="leaderCharacterId &lt; 0 || leaderCharacterId &gt; 9007199254740992" />
 		<XmlField Name="leaderCharacterName" Type="utf" />
 	</Fields>
 </XmlMessage>
