@@ -32,26 +32,4 @@ namespace AmaknaProxy.API.Protocol.Messages
         {
         }
     }
-    public class RawDataMessage2 : NetworkMessage
-    {
-        public const uint Id = 124;
-        public override uint MessageId
-        {
-            get { return Id; }
-        }
-
-
-        public RawDataMessage2()
-        {
-        }
-
-
-        public override void Serialize(IDataWriter writer)
-        {
-        }
-
-        public override void Deserialize(IDataReader reader)
-        {
-        }
-    }
 }
